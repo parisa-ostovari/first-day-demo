@@ -1,2 +1,2 @@
 # first-day-demo
-our first Github Repository (Repo
+Our first Github Repository
